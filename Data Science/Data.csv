@@ -1,0 +1,101 @@
+time,place,status,tsunami,significance,data_type,magnitudo,state,longitude,latitude,depth,date
+631153353990,"12 km NNW of Meadow Lakes, Alaska",reviewed,0,96,earthquake,2.5,Alaska,-149.6692,61.7302,30.1,1990-01-01T00:22:33Z
+631153491210,"14 km S of Volcano, Hawaii",reviewed,0,31,earthquake,1.41,Hawaii,-155.2123333,19.3176667,6.585,1990-01-01T00:24:51Z
+631154083450,"7 km W of Cobb, California",reviewed,0,19,earthquake,1.11,California,-122.8061667,38.821,3.22,1990-01-01T00:34:43Z
+631155512130,"11 km E of Mammoth Lakes, California",reviewed,0,15,earthquake,0.98,California,-118.8463333,37.6643333,-0.584,1990-01-01T00:58:32Z
+631155824490,"16km N of Fillmore, CA",reviewed,0,134,earthquake,2.95,California,-118.934,34.546,16.122,1990-01-01T01:03:44Z
+631155853760,"16km N of Fillmore, CA",reviewed,0,118,earthquake,2.77,California,-118.923,34.543,16.342,1990-01-01T01:04:13Z
+631156030570,"6 km WSW of Mammoth Lakes, California",reviewed,0,20,earthquake,1.13,California,-119.04,37.6326667,-1.499,1990-01-01T01:07:10Z
+631156431950,"12 km E of Mammoth Lakes, California",reviewed,0,11,earthquake,0.83,California,-118.8341667,37.6615,0.556,1990-01-01T01:13:51Z
+631156614070,"11 km E of Mammoth Lakes, California",reviewed,0,39,earthquake,1.59,California,-118.8401667,37.6623333,-0.234,1990-01-01T01:16:54Z
+631156620210,"1 km W of Wilkeson, Washington",reviewed,0,74,earthquake,2.2,Washington,-122.0711667,47.1025,8.382,1990-01-01T01:17:00Z
+631156667040,"6 km WSW of Mammoth Lakes, California",reviewed,0,64,earthquake,2.04,California,-119.0408333,37.6321667,-1.437,1990-01-01T01:17:47Z
+631156954580,"9 km W of Cashmere, Washington",reviewed,0,26,earthquake,1.3,Washington,-120.595,47.5093333,8.81,1990-01-01T01:22:34Z
+631157260930,"6 km W of Cobb, California",reviewed,0,12,earthquake,0.89,California,-122.796,38.819,1.81,1990-01-01T01:27:40Z
+631158495440,"9 km SSE of Gilroy, California",reviewed,0,21,earthquake,1.16,California,-121.5148333,36.9313333,2.858,1990-01-01T01:48:15Z
+631158697890,"16km N of Fillmore, CA",reviewed,0,46,earthquake,1.73,California,-118.937,34.545,15.422,1990-01-01T01:51:37Z
+631159381600,"4 km N of Interlaken, California",reviewed,0,35,earthquake,1.51,California,-121.732,36.9903333,11.009,1990-01-01T02:03:01Z
+631160271850,"6 km W of Cobb, California",reviewed,0,14,earthquake,0.96,California,-122.7931667,38.8278333,4.029,1990-01-01T02:17:51Z
+631160925580,"9 km SSE of Gilroy, California",reviewed,0,23,earthquake,1.22,California,-121.5103333,36.9335,3.198,1990-01-01T02:28:45Z
+631161577430,"13 km N of Livermore, California",reviewed,0,49,earthquake,1.78,California,-121.7585,37.7988333,11.163,1990-01-01T02:39:37Z
+631162061250,"35 km SSW of Mandráki, Greece",reviewed,0,168,earthquake,3.3,Greece,26.969,36.323,144.8,1990-01-01T02:47:41Z
+631162540150,"7 km W of Cobb, California",reviewed,0,9,earthquake,0.75,California,-122.8051667,38.8335,-0.566,1990-01-01T02:55:40Z
+631164358270,"2 km SSW of Monterosso Grana, Italy",reviewed,0,39,earthquake,1.6,Italy,7.312,44.384,10,1990-01-01T03:25:58Z
+631164459630,"7 km WSW of Cobb, California",reviewed,0,97,earthquake,2.51,California,-122.8056667,38.7998333,1.368,1990-01-01T03:27:39Z
+631165290480,"7 km WSW of Cobb, California",reviewed,0,22,earthquake,1.2,California,-122.805,38.8023333,1.208,1990-01-01T03:41:30Z
+631165877400,"2 km NNE of Amesti, California",reviewed,0,6,earthquake,0.65,California,-121.7646667,36.9858333,15.033,1990-01-01T03:51:17Z
+631166364050,"7 km WSW of Cobb, California",reviewed,0,12,earthquake,0.89,California,-122.8038333,38.7986667,1.726,1990-01-01T03:59:24Z
+631166832770,"5 km ESE of Interlaken, California",reviewed,0,6,earthquake,0.62,California,-121.6743333,36.9335,4.77,1990-01-01T04:07:12Z
+631166964990,"20km ENE of Coachella, CA",reviewed,0,47,earthquake,1.74,California,-115.991,33.774,2.646,1990-01-01T04:09:24Z
+631167252480,"3 km NNW of Hollister, California",reviewed,0,86,earthquake,2.37,California,-121.4151667,36.882,7.535,1990-01-01T04:14:12Z
+631167254570,"15km NE of Thermal, CA",reviewed,0,63,earthquake,2.03,California,-116.022,33.735,8.186,1990-01-01T04:14:14Z
+631167332390,"1 km W of Interlaken, California",reviewed,0,1,earthquake,0.31,California,-121.7471667,36.9498333,10.554,1990-01-01T04:15:32Z
+631168041160,"4 km WNW of Farmers Loop, Alaska",reviewed,0,10,earthquake,0.8,Alaska,-147.78,64.9185,14.4,1990-01-01T04:27:21Z
+631169147550,"11 km E of Mammoth Lakes, California",reviewed,0,10,earthquake,0.81,California,-118.8398333,37.6623333,-0.074,1990-01-01T04:45:47Z
+631169491240,"9 km NNW of Hana, Hawaii",reviewed,0,94,earthquake,2.47,Hawaii,-156.0226667,20.8378333,6.016,1990-01-01T04:51:31Z
+631169896740,"4 km SW of Volcano, Hawaii",reviewed,0,50,earthquake,1.81,Hawaii,-155.2615,19.4156667,10.805,1990-01-01T04:58:16Z
+631169908350,"3 km NNW of Interlaken, California",reviewed,0,14,earthquake,0.95,California,-121.743,36.9835,15.131,1990-01-01T04:58:28Z
+631170615200,"36 km SE of Fox River, Alaska",reviewed,0,68,earthquake,2.1,Alaska,-150.4977,59.6275,13.4,1990-01-01T05:10:15Z
+631170756470,"45 km SSW of Tatitlek, Alaska",reviewed,0,62,earthquake,2,Alaska,-147.0002,60.4858,14.4,1990-01-01T05:12:36Z
+631170919480,"12 km WNW of Petersville, Alaska",reviewed,0,62,earthquake,2,Alaska,-150.9963,62.5218,72.8,1990-01-01T05:15:19Z
+631171049460,"21km SSE of Solvang, CA",reviewed,0,73,earthquake,2.18,California,-120.093,34.413,2.625,1990-01-01T05:17:29Z
+631172130740,"8km NE of Borrego Springs, CA",reviewed,0,7,earthquake,0.67,California,-116.313,33.305,8.873,1990-01-01T05:35:30Z
+631172575180,"12 km SSE of Volcano, Hawaii",reviewed,0,80,earthquake,2.28,Hawaii,-155.1956667,19.3333333,6.643,1990-01-01T05:42:55Z
+631173431620,"5 km WSW of Mammoth Lakes, California",reviewed,0,14,earthquake,0.95,California,-119.0296667,37.6265,2.253,1990-01-01T05:57:11Z
+631173444190,"5 km WSW of Mammoth Lakes, California",reviewed,0,5,earthquake,0.59,California,-119.0275,37.6306667,1.553,1990-01-01T05:57:24Z
+631173458520,"5 km WSW of Mammoth Lakes, California",reviewed,0,11,earthquake,0.83,California,-119.0295,37.6285,2.203,1990-01-01T05:57:38Z
+631173931480,"6 km ENE of Mesa, California",reviewed,0,20,earthquake,1.14,California,-118.4736667,37.4301667,8.745,1990-01-01T06:05:31Z
+631174906310,"11 km E of Mammoth Lakes, California",reviewed,0,58,earthquake,1.94,California,-118.844,37.6681667,1.01,1990-01-01T06:21:46Z
+631175162660,"11 km E of Mammoth Lakes, California",reviewed,0,14,earthquake,0.97,California,-118.8445,37.663,-0.114,1990-01-01T06:26:02Z
+631175644000,"17 km SW of Shëngjin, Albania",reviewed,0,168,earthquake,3.3,Albania,19.431,41.714,10,1990-01-01T06:34:04Z
+631176425930,"22km W of Johannesburg, CA",reviewed,0,43,earthquake,1.68,California,-117.874,35.365,2.538,1990-01-01T06:47:05Z
+631176629110,"7 km WSW of Mammoth Lakes, California",reviewed,0,4,earthquake,0.52,California,-119.0515,37.6263333,4.161,1990-01-01T06:50:29Z
+631177025870,"11 km NNW of Henefer, Utah",reviewed,0,67,earthquake,2.08,Utah,-111.5635,41.1045,9.78,1990-01-01T06:57:05Z
+631178282300,"5 km SW of Gilroy, California",reviewed,0,8,earthquake,0.7,California,-121.6115,36.9703333,3.595,1990-01-01T07:18:02Z
+631178919340,"21km NE of Olancha, CA",reviewed,0,42,earthquake,1.66,California,-117.843,36.419,4.447,1990-01-01T07:28:39Z
+631180100200,"11 km E of Mammoth Lakes, California",reviewed,0,19,earthquake,1.11,California,-118.8461667,37.664,-0.604,1990-01-01T07:48:20Z
+631180175570,Fiji region,reviewed,0,449,earthquake,5.4,Fiji region,-179.361,-21.772,599.5,1990-01-01T07:49:35Z
+631180561000,"4 km SW of Volcano, Hawaii",reviewed,0,47,earthquake,1.75,Hawaii,-155.2658333,19.4188333,8.965,1990-01-01T07:56:01Z
+631180569140,"5 km W of Cobb, California",reviewed,0,12,earthquake,0.89,California,-122.7918333,38.8191667,1.82,1990-01-01T07:56:09Z
+631181120700,"8 km N of Day Valley, California",reviewed,0,45,earthquake,1.71,California,-121.8716667,37.1158333,2.527,1990-01-01T08:05:20Z
+631181202570,"6 km WSW of Mammoth Lakes, California",reviewed,0,6,earthquake,0.6,California,-119.0456667,37.6291667,2.283,1990-01-01T08:06:42Z
+631181233990,"28km NW of Searles Valley, CA",reviewed,0,18,earthquake,1.09,California,-117.592,35.97,5.074,1990-01-01T08:07:13Z
+631181282500,"26km NNE of Kernville, CA",reviewed,0,105,earthquake,2.61,California,-118.357,35.983,4.231,1990-01-01T08:08:02Z
+631182661160,"9 km W of Cobb, California",reviewed,0,9,earthquake,0.76,California,-122.8301667,38.8348333,1.434,1990-01-01T08:31:01Z
+631182745530,"2 km SSW of Lexington Hills, California",reviewed,0,34,earthquake,1.48,California,-121.9853333,37.1401667,11.853,1990-01-01T08:32:25Z
+631183579250,"3km NNE of Lamont, CA",reviewed,0,43,earthquake,1.67,California,-118.9,35.286,19.179,1990-01-01T08:46:19Z
+631184497360,"8 km ENE of San Martin, California",reviewed,0,14,earthquake,0.96,California,-121.5236667,37.126,8.317,1990-01-01T09:01:37Z
+631184592880,"3 km NE of Hitachi-Naka, Japan",reviewed,0,354,earthquake,4.8,Japan,140.568,36.417,67.9,1990-01-01T09:03:12Z
+631184719270,"12km NE of Julian, CA",reviewed,0,10,earthquake,0.82,California,-116.499,33.151,7.601,1990-01-01T09:05:19Z
+631184727430,"22 km ESE of Klamath, California",reviewed,0,42,earthquake,1.65,California,-123.8125,41.4235,3.744,1990-01-01T09:05:27Z
+631185183880,"2 km NE of Corralitos, California",reviewed,0,17,earthquake,1.05,California,-121.7826667,37.0045,14.995,1990-01-01T09:13:03Z
+631185412870,"3 km ENE of Big Sur, California",reviewed,0,57,earthquake,1.92,California,-121.7746667,36.2815,13.102,1990-01-01T09:16:52Z
+631186695390,south of the Fiji Islands,reviewed,0,354,earthquake,4.8,south of the Fiji Islands,-179.922,-23.616,540.8,1990-01-01T09:38:15Z
+631187070600,"5 km ENE of Day Valley, California",reviewed,0,17,earthquake,1.04,California,-121.8085,37.0615,11.726,1990-01-01T09:44:30Z
+631188711920,"1 km SSW of Volcano, Hawaii",reviewed,0,35,earthquake,1.5,Hawaii,-155.2398333,19.4276667,0.207,1990-01-01T10:11:51Z
+631190024050,"125 km SW of Charlestown, Saint Kitts and Nevis",reviewed,0,199,earthquake,3.6,Saint Kitts and Nevis,-63.417,16.302,33,1990-01-01T10:33:44Z
+631191807150,"2 km NE of Monte Sereno, California",reviewed,0,29,earthquake,1.37,California,-121.9753333,37.2551667,3.628,1990-01-01T11:03:27Z
+631192186440,"2 km NE of Corralitos, California",reviewed,0,18,earthquake,1.07,California,-121.7828333,37.0026667,15.495,1990-01-01T11:09:46Z
+631192363640,"41 km WNW of Ninilchik, Alaska",reviewed,0,62,earthquake,2,Alaska,-152.3117,60.247,84,1990-01-01T11:12:43Z
+631195902080,"24 km NE of Greenfield, California",reviewed,0,35,earthquake,1.5,California,-121.0531667,36.4771667,4.742,1990-01-01T12:11:42Z
+631197093070,"48 km WNW of Ninilchik, Alaska",reviewed,0,44,earthquake,1.7,Alaska,-152.465,60.234,80.5,1990-01-01T12:31:33Z
+631198222270,"6 km W of Cobb, California",reviewed,0,12,earthquake,0.87,California,-122.796,38.812,1.51,1990-01-01T12:50:22Z
+631200167540,"1 km NNE of Corralitos, California",reviewed,0,114,earthquake,2.72,California,-121.7996667,37.001,15.404,1990-01-01T13:22:47Z
+631201353970,"29 km SW of South Dos Palos, California",reviewed,0,27,earthquake,1.32,California,-120.8871667,36.772,0.254,1990-01-01T13:42:33Z
+631201592010,"9 km WNW of Cobb, California",reviewed,0,5,earthquake,0.56,California,-122.8298333,38.8418333,1.202,1990-01-01T13:46:32Z
+631201740350,"12 km S of Tres Pinos, California",reviewed,0,31,earthquake,1.43,California,-121.3051667,36.6748333,5.778,1990-01-01T13:49:00Z
+631202311340,"9km ESE of Yorba Linda, CA",reviewed,0,45,earthquake,1.71,California,-117.723,33.856,3.737,1990-01-01T13:58:31Z
+631202842830,"22 km NE of Soledad, California",reviewed,0,11,earthquake,0.86,California,-121.1463333,36.5613333,3.891,1990-01-01T14:07:22Z
+631203003050,"245 km S of Banjar, Indonesia",reviewed,0,340,earthquake,4.7,Indonesia,107.26,-9.412,31.9,1990-01-01T14:10:03Z
+631203260590,"5 km SSE of San Juan Bautista, California",reviewed,0,75,earthquake,2.21,California,-121.5246667,36.8016667,6.748,1990-01-01T14:14:20Z
+631203301320,Central California,reviewed,0,1,earthquake,0.3,Central California,-121.5303333,36.8035,6.827,1990-01-01T14:15:01Z
+631203604200,"1 km NE of Corralitos, California",reviewed,0,29,earthquake,1.38,California,-121.7956667,37.0013333,15.715,1990-01-01T14:20:04Z
+631204317280,"1 km NNE of Lexington Hills, California",reviewed,0,17,earthquake,1.04,California,-121.9656667,37.178,2.942,1990-01-01T14:31:57Z
+631205340690,"58 km W of Kirakira, Solomon Islands",reviewed,0,416,earthquake,5.2,Solomon Islands,161.387,-10.507,36.7,1990-01-01T14:49:00Z
+631206385020,"5 km ESE of Santa Rosa, California",reviewed,0,21,earthquake,1.18,California,-122.6525,38.4235,9.025,1990-01-01T15:06:25Z
+631206932930,"38 km S of Morton, Washington",reviewed,0,2,earthquake,0.4,Washington,-122.1965,46.2161667,6.667,1990-01-01T15:15:32Z
+631207308960,"16 km SSW of Morton, Washington",reviewed,0,12,earthquake,0.9,Washington,-122.318,46.4115,15.956,1990-01-01T15:21:48Z
+631210047320,"155 km N of Likisá, Timor Leste",reviewed,0,432,earthquake,5.3,Timor Leste,125.242,-7.183,527.1,1990-01-01T16:07:27Z
+631210543850,"2 km SSW of Volcano, Hawaii",reviewed,0,63,earthquake,2.03,Hawaii,-155.2411667,19.4168333,2.492,1990-01-01T16:15:43Z
+631210666070,"6 km SW of Cobb, California",reviewed,0,26,earthquake,1.29,California,-122.7681667,38.781,-0.799,1990-01-01T16:17:46Z
+631210691590,"38 km NNE of Amboy, Washington",reviewed,0,4,earthquake,0.5,Washington,-122.1868333,46.2006667,3.719,1990-01-01T16:18:11Z
